@@ -1,4 +1,4 @@
-# Resources curated for getting into PyTorch
+# Resources curated for getting into PyTorch 🔖🔖
 
 **♥♥♥♥** [official website](http://pytorch.org/) 
 
